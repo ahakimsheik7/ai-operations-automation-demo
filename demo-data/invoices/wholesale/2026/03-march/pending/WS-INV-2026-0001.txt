@@ -1,0 +1,17 @@
+INVOICE
+
+Invoice ID: WS-INV-2026-0001
+Company: Midwest Auto Supply Co
+Date: March 25, 2026
+Due Date: April 10, 2026
+
+Items:
+- Brake Pads (50 units): $2500.00
+- Oil Filters (100 units): $1800.00
+- Engine Oil (200 units): $4000.00
+
+Subtotal: $8300.00
+Tax: $620.00
+Total: $8920.00
+
+Status: Pending

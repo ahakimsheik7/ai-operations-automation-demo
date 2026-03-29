@@ -58,3 +58,18 @@ Manual Trigger
 ---
 
 ## Folder Structure
+
+---
+
+## Example Output
+
+```json
+{
+  "invoice_id": "WS-INV-2026-0001",
+  "vendor_name": "Midwest Auto Supply Co",
+  "invoice_date": "2026-03-25",
+  "due_date": "2026-04-10",
+  "total_amount": "8920.00",
+  "currency": "USD",
+  "status": "Extracted"
+}
